@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716520342301",
+    "firebase_url": "https://cobafirebase-abis.firebaseio.com",
+    "project_id": "cobafirebase-abis",
+    "storage_bucket": "cobafirebase-abis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716520342301:android:fd12d2089f91cd963bd7f4",
+        "android_client_info": {
+          "package_name": "com.example.cobafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716520342301-i6ea449uak1k885gpv0mbbcs543d8779.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cobafirebase",
+            "certificate_hash": "6e148214fd7edff085013a93fe630b9078ae9bbc"
+          }
+        },
+        {
+          "client_id": "716520342301-n02bukitcnq9agjj069actasp3sq1bhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEtVIYN_jHCBTlbMkS7bPIwqx7V7anwGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716520342301-n02bukitcnq9agjj069actasp3sq1bhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

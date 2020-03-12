@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectMppl</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="beranda">Beranda</string>
+    <string name="profil">Profil</string>
+    <string name="tentang">Tentang</string>
+
+</resources>
